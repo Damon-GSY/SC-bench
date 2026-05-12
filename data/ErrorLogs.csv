@@ -1,0 +1,77 @@
+entity_type,warehouse_order_id,fulfillment_order_id,code,text
+warehouse_order,WO3016,FO2009,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3022,FO2011,SHIP_LOST,ship lost
+fulfillment_order,,FO2018,FAKE_SHIP,fake shippment
+warehouse_order,WO3050,FO2024,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3059,FO2028,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3060,FO2028,SHIP_LOST,ship lost
+fulfillment_order,,FO2029,FAKE_SHIP,fake shippment
+warehouse_order,WO3065,FO2030,PICK_SHORTAGE,pick shortage
+fulfillment_order,,FO2034,FAKE_SHIP,fake shippment
+fulfillment_order,,FO2036,FAKE_SHIP,fake shippment
+warehouse_order,WO3072,FO2036,PICK_SHORTAGE,pick shortage
+fulfillment_order,,FO2039,WAREHOUSE_ISSUE,warehouse issue
+fulfillment_order,,FO2044,WAREHOUSE_ISSUE,warehouse issue
+fulfillment_order,,FO2050,WAREHOUSE_ISSUE,warehouse issue
+fulfillment_order,,FO2052,FAKE_SHIP,fake shippment
+warehouse_order,WO3111,FO2056,PACK_MISSING_LABEL,pack missing label
+fulfillment_order,,FO2063,WAREHOUSE_ISSUE,warehouse issue
+warehouse_order,WO3141,FO2069,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3159,FO2077,SHIP_LOST,ship lost
+warehouse_order,WO3179,FO2087,SHIP_LOST,ship lost
+warehouse_order,WO3186,FO2090,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3213,FO2105,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3225,FO2111,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3256,FO2125,SCAN_FAIL,scan fail
+warehouse_order,WO3283,FO2137,SCAN_FAIL,scan fail
+warehouse_order,WO3298,FO2144,SCAN_FAIL,scan fail
+warehouse_order,WO3299,FO2144,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3307,FO2147,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3312,FO2149,SHIP_LOST,ship lost
+warehouse_order,WO3315,FO2151,SHIP_LOST,ship lost
+fulfillment_order,,FO2159,FAKE_SHIP,fake shippment
+warehouse_order,WO3330,FO2159,SCAN_FAIL,scan fail
+warehouse_order,WO3332,FO2160,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3342,FO2164,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3343,FO2164,PICK_SHORTAGE,pick shortage
+fulfillment_order,,FO2168,FAKE_SHIP,fake shippment
+warehouse_order,WO3353,FO2169,SHIP_LOST,ship lost
+warehouse_order,WO3359,FO2173,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3361,FO2173,PICK_SHORTAGE,pick shortage
+fulfillment_order,,FO2179,WAREHOUSE_ISSUE,warehouse issue
+warehouse_order,WO3371,FO2179,PICK_SHORTAGE,pick shortage
+fulfillment_order,,FO2184,FAKE_SHIP,fake shippment
+warehouse_order,WO3382,FO2184,SCAN_FAIL,scan fail
+warehouse_order,WO3389,FO2186,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3399,FO2192,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3403,FO2193,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3408,FO2195,SCAN_FAIL,scan fail
+fulfillment_order,,FO2197,FAKE_SHIP,fake shippment
+warehouse_order,WO3411,FO2197,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3412,FO2198,SHIP_LOST,ship lost
+fulfillment_order,,FO2199,FAKE_SHIP,fake shippment
+warehouse_order,WO3423,FO2203,SCAN_FAIL,scan fail
+warehouse_order,WO3426,FO2204,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3434,FO2209,PACK_MISSING_LABEL,pack missing label
+fulfillment_order,,FO2211,WAREHOUSE_ISSUE,warehouse issue
+warehouse_order,WO3445,FO2214,SCAN_FAIL,scan fail
+warehouse_order,WO3446,FO2214,SCAN_FAIL,scan fail
+warehouse_order,WO3452,FO2217,SCAN_FAIL,scan fail
+warehouse_order,WO3453,FO2217,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3465,FO2222,SHIP_LOST,ship lost
+warehouse_order,WO3468,FO2223,SHIP_LOST,ship lost
+warehouse_order,WO3491,FO2233,SHIP_LOST,ship lost
+fulfillment_order,,FO2248,FAKE_SHIP,fake shippment
+warehouse_order,WO3526,FO2251,PICK_SHORTAGE,pick shortage
+warehouse_order,WO3533,FO2255,SHIP_LOST,ship lost
+warehouse_order,WO3561,FO2269,PICK_SHORTAGE,pick shortage
+fulfillment_order,,FO2272,FAKE_SHIP,fake shippment
+warehouse_order,WO3582,FO2279,SHIP_LOST,ship lost
+warehouse_order,WO3586,FO2281,PACK_MISSING_LABEL,pack missing label
+warehouse_order,WO3588,FO2281,SCAN_FAIL,scan fail
+fulfillment_order,,FO2282,WAREHOUSE_ISSUE,warehouse issue
+warehouse_order,WO3590,FO2282,SHIP_LOST,ship lost
+fulfillment_order,,FO2285,WAREHOUSE_ISSUE,warehouse issue
+fulfillment_order,,FO2288,FAKE_SHIP,fake shippment
+warehouse_order,WO3607,FO2292,SHIP_LOST,ship lost
+warehouse_order,WO3609,FO2293,SCAN_FAIL,scan fail

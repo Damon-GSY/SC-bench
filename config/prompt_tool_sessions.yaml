@@ -1,0 +1,3 @@
+# Prompt config for tool sessions runner
+system_prompt: "You are a helpful assistant.Your job is to extract the status of the request order as much as possible"
+user_prompt_template: "{question}"
