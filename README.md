@@ -1,5 +1,19 @@
 ## SupChain-Bench
 
+> **If you use SupChain-Bench in your research, please cite our paper:**
+
+```bibtex
+@misc{guan2026supchainbenchbenchmarkinglargelanguage,
+      title={SupChain-Bench: Benchmarking Large Language Models for Real-World Supply Chain Management}, 
+      author={Shengyue Guan and Yihao Liu and Lang Cao},
+      year={2026},
+      eprint={2602.07342},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.07342}, 
+}
+```
+
 A comprehensive benchmark for evaluating LLM tool-use and multi-step reasoning capabilities in supply chain order management scenarios.
 
 ### Overview
