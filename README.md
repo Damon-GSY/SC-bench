@@ -1,6 +1,6 @@
 ## SupChain-Bench
 
-> **If you use SupChain-Bench in your research, please cite our paper:**
+> **SupChain-Bench has been accepted by ACL 2026 Findings. If you use it in your research, please cite our paper:**
 
 ```bibtex
 @misc{guan2026supchainbenchbenchmarkinglargelanguage,
